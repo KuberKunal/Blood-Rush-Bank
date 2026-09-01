@@ -1,0 +1,6 @@
+{
+  "name": "BloodRUSH — AI Blood Inventory & Emergency Network",
+  "description": "AI-powered hospital and blood bank network for real-time blood inventory, demand forecasting, controlled ordering, and emergency coordination.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
